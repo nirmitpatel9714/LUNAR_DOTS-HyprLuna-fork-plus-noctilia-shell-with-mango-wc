@@ -13,17 +13,6 @@
               <a href="https://github.com/Lunaris-Project/HyprLuna">
           <img src="https://img.shields.io/github/repo-size/Lunaris-Project/HyprLuna?style=for-the-badge&logo=github&color=F9E2AF&labelColor=1E1E2E&label=Size" alt="Repo Size">
                   </a>
-        <a href="https://github.com/Lunaris-Project/HyprLuna/commits/main">
-          <img src="https://img.shields.io/github/last-commit/Lunaris-Project/HyprLuna?style=for-the-badge&logo=git&color=F38BA8&labelColor=1E1E2E" alt="Last Commit">
-        </a>
-        <a href="https://github.com/Lunaris-Project/HyprLuna/stargazers">
-          <img src="https://img.shields.io/github/stars/Lunaris-Project/HyprLuna?color=CBA6F7&labelColor=1E1E2E&style=for-the-badge&logo=starship&logoColor=CBA6F7" alt="Stars">
-        </a>
-      </div>
-<p align="center">
- <img src="previews/HyprLuna.png" alt="Logo image" style="border-radius: 15px;">
-</p>
-
 <h1>✨ ShowCase ✨</h1>
 
 <table>
