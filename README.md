@@ -1,8 +1,6 @@
 <div align="center">
     <h1 style="font-size:50px">🇪🇬HyprLuna Dotfiles🌙</h1>
       <div>
-        <a href="https://discord.gg/qnAHD9keWr">
-          <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
         </a>
         <a href="https://archlinux.org/">
           <img src="https://img.shields.io/badge/Arch_Linux-Compatible-89DCEB?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1E1E2E" alt="Arch Linux Compatible">
