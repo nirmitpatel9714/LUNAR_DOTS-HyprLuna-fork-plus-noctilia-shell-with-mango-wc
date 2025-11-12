@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="font-size:50px">🇪🇬HyprLuna Dotfiles🌙</h1>
+    <h1 style="font-size:50px">HyprLuna Dotfiles🌙</h1>
       <div>
         </a>
         <a href="https://archlinux.org/">
