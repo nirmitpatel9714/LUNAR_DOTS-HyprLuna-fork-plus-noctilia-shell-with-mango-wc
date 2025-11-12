@@ -8,11 +8,6 @@
               <a href="https://github.com/Lunaris-Project/HyprLuna/blob/main/LICENSE">
           <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License">
         </a>
-      </div>
-      <div>
-              <a href="https://github.com/Lunaris-Project/HyprLuna">
-          <img src="https://img.shields.io/github/repo-size/Lunaris-Project/HyprLuna?style=for-the-badge&logo=github&color=F9E2AF&labelColor=1E1E2E&label=Size" alt="Repo Size">
-                  </a>
 <h1>✨ ShowCase ✨</h1>
 
 <table>
