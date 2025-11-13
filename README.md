@@ -9,7 +9,7 @@
           <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License">
         </a>
 <h1>INSTALL
-run git clone https://github.com/nirmitpatel9714/HYPRLUNA-DOTS.git && cd HYPRLUNA-DOTS && bash ./install
+    run git clone https://github.com/nirmitpatel9714/HYPRLUNA-DOTS.git && cd HYPRLUNA-DOTS && bash ./install
 <h1>✨ ShowCase ✨</h1>
 <table>
   <tr>
